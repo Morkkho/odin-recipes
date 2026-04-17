@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-color: palegreen;
+    background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 300px;
@@ -17,11 +17,10 @@ body {
 .title {
     background-color: aquamarine;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
 }
 
 div {
-
+font-weight: 600;
 }
 
 .jamaican,
@@ -34,6 +33,4 @@ div {
     width: 400px;
 }
 
-.ndole {
-    
-}
+
