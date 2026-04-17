@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-color: white;
+    background-color: palegreen;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 300px;
@@ -15,7 +15,7 @@ body {
 }
 
 .title {
-    
+    background-color: aquamarine;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
