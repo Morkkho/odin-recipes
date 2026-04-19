@@ -21,6 +21,20 @@ body {
     padding: 50px 0;
 }
 
+.food,
+.types {
+    margin: 0 30px 20px;
+    text-align: center;
+}
+
+.types {
+    margin-bottom: 60px;
+}
+
+.subtitle {
+    text-align: left;
+}
+
 div {
 font-weight: 600;
 }
