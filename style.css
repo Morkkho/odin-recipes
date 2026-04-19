@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 300px;
@@ -15,8 +15,10 @@ body {
 }
 
 .title {
-    background-color: aquamarine;
+    background-color: #ffffff;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 0 50px 0;
+    padding: 50px 0;
 }
 
 div {
@@ -26,7 +28,6 @@ font-weight: 600;
 .jamaican,
 .ndole,
 .lamingtons  {
-    background-color: rgb(131, 140, 133);
     padding: 5px;
     margin: 1em 0;
     text-align: left;
