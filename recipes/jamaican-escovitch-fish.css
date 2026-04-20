@@ -12,9 +12,10 @@ body {
     background-color: aquamarine;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 300;
+    margin: -1px -1px 0;
 }
 
-.fish {
+.title {
     background-color: #ffffff;
     margin: 0 0 30px;
     padding: 50px 0;
