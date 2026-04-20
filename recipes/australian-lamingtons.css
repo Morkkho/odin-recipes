@@ -1,0 +1,44 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    margin: -1px -1px 0;
+}
+
+.title {
+    background-color: #ffffff;
+    margin: 0 0 30px;
+    padding: 50px 0;
+    text-align: center;
+}
+
+image {
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+}
+
+.para {
+    margin: 20px 350px 0 0;
+}
+
+button {
+background-color: green;
+}
+.gen {
+    margin: 0 350px 0 0;
+}
+
+.lists {
+    margin: 0 350px 0 0;
+}
