@@ -22,9 +22,9 @@ body {
     text-align: center;
 }
 
-image {
-    width: auto;
-    height: auto;
+img {
+    width: 560px;
+    height: 370px;
     background-color: #ffffff;
 }
 
